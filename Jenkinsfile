@@ -1,4 +1,4 @@
-@library('pipe-ritesh@master')_
+@library('pipe-ritesh')_
 
 
 sayHello(
